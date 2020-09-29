@@ -10,10 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/SmoothDev24/IndecisionApp.git"
   },
-  "author": "",
+  "author": "SmoothDev24",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/SmoothDev24/IndecisionApp/issues"
   },
-  "homepage": "https://github.com/SmoothDev24/IndecisionApp#readme"
+  "homepage": "https://github.com/SmoothDev24/IndecisionApp#readme",
+  "dependencies": {
+    "babel-preset-env": "^1.5.2",
+    "babel-preset-react": "^6.24.1"
+  }
 }
